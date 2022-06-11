@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "966813733271",
+    "firebase_url": "https://firedecdb01-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firedecdb01",
+    "storage_bucket": "firedecdb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966813733271:android:ac35674fd62ca9b008f4d2",
+        "android_client_info": {
+          "package_name": "com.tz.fire_dec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966813733271-ep55ca1b3o3iut05inf70kkt6a9iot9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71xSYr33aGh2_nA1aVPgqdwh5Cewmfy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966813733271-ep55ca1b3o3iut05inf70kkt6a9iot9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966813733271:android:99d9578db15ad2ae08f4d2",
+        "android_client_info": {
+          "package_name": "com.tz.fire_obs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966813733271-ep55ca1b3o3iut05inf70kkt6a9iot9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC71xSYr33aGh2_nA1aVPgqdwh5Cewmfy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966813733271-ep55ca1b3o3iut05inf70kkt6a9iot9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
